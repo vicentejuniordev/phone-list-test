@@ -1,0 +1,6 @@
+@PhoneList_HostAddress = http://localhost:5023
+
+GET {{PhoneList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
